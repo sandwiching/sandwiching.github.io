@@ -32,12 +32,12 @@ body{
 
 .text::before{
   color: #ff00c1;
-  animation: glitch-effect 1s infinite;
+  animation: glitch-effect 3s infinite;
 }
 
 .text::after{
   color: #3498db;
-  animation: glitch-effect 1s infinite;
+  animation: glitch-effect 2s infinite;
 }
 
 @keyframes glitch-effect {
